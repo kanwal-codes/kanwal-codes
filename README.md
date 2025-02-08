@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Kanwal! 👋
 
 🚀 **Aspiring Software Developer | Web Developer | Tech Enthusiast**
 
