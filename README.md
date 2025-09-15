@@ -66,11 +66,4 @@ I’m passionate about improving my problem-solving skills and regularly partici
 
 ---
 
-### 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
-
 Thanks for stopping by! Feel free to check out my repositories and connect! 😊
